@@ -21,7 +21,7 @@ def period_model(d, l, g=9.81):
 
 
 # Opening, reading and closing the csv file with data
-csv_file = open("Pendolo_Fisico_Dati.csv", mode="r")
+csv_file = open("Data.csv", mode="r")
 
 reader = csv.reader(csv_file, delimiter=',')
 header = next(reader)
