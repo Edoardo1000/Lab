@@ -1,0 +1,27 @@
+# Stella, ascensione retta, declinazione (in radianti)
+Arturo 3.7334 0.33479
+Spica 3.5132 -0.19480
+Regulus 2.6545 0.208867
+
+#Angles:
+Arturo-Spica:0.57233
+Spica-Regulus:0.94346
+Regulus-Arturo:1.04198
+
+#Coordinates in photo:
+Arturo:325,446
+Spica:606,530
+Regulus:701,62
+
+#Distances:
+Arturo-Spica:293.28
+Spica-Regulus:477.54
+Regulus-Arturo:537.43
+
+#Angle per pixel
+Arturo-Spica:0.0019515
+Spica-Regulus:0.0019756
+Regulus-Arturo:0.0019388
+
+#Mean,sigma
+0.001955, 0.000011
